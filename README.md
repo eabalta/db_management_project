@@ -2,7 +2,7 @@
 # Database Management Project
 
 - We prepared this airport database project for Database Management lesson which is in 5th semester at Ege University Computer Engineering Departmant.
-=======
+
 # DBM Final Project: Database Implementation and Application Development
 
 ## PART-II DATABASE IMPLEMENTATION
